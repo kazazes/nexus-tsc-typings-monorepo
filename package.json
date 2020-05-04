@@ -1,0 +1,15 @@
+{
+  "name": "nexus-hoisting-typings-repro",
+  "version": "1.0.0",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "Peter Kazazes",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "nexus": "^0.21.0-next.24"
+  }
+}
